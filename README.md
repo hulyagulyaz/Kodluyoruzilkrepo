@@ -8,8 +8,9 @@ Bu repo kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde
 -------------------------------------------------
 ## Usage 
 Projeyi doldurduktan sonra Visual Studio Code Programında açınız.
-lunüx için: 
-``` cd codluyoruz ilk repo ```
+linux için: 
+
+``` cd kodluyoruz ilk repo ```
 ``` code . ```
 -------------------------------------------------
 
